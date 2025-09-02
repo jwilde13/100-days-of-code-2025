@@ -15,3 +15,13 @@ I ran into a few additional issues uploading the AAB file to the Google Play sto
 
 **Link to work:** The [tutorial](https://ionicframework.com/docs/angular/your-first-app) I used from Ionic.
 
+
+
+### Day 1: September 2, 2025
+
+**Today's Progress**: Build a heatmap to track progress!
+
+**Thoughts:** Today I wanted a way to visualize my progress while doing the 100 days challenge. I really like how GitHub displays activity via a heatmap. I started by creating a table and looping from 0-52 to build the week columns and the day values. I was able to get the colors I wanted but it felt clunky. I found this heatmap library called cal-heatmap that I liked so I decided to switch to it. There were some issues I faced when getting the heatmap to load correctly. Once I was more familiar with the library, it worked out really well.
+
+**Link to work:** The [Heatmap Github](https://cal-heatmap.com/) repo I used. 
+**Link to work:** See my [Heatmap Demo](./Demos/heatmap.html) that I created. 
