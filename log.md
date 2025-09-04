@@ -26,3 +26,10 @@ I ran into a few additional issues uploading the AAB file to the Google Play sto
 **Link to work:** The [Heatmap Github](https://cal-heatmap.com/) repo I used. 
 
 **Link to work:** See my [Heatmap Demo](./Demos/heatmap.html) that I created. 
+
+
+### Day 2: September 3, 2025
+
+**Today's Progress**: Build a task tracker and note form!
+
+**Thoughts:** I am very unorganized and often start things and don't finish them because I get distracted by the next thing. I decided to practice my PHP skills and front end development by creating a To-Do list and a note taker. The languages used are jQuery, Bootstrap, PHP for backend and MySQL to store the data. I've worked with PHP what I thought was a lot but my skills are rusty. Using the PDO->Prepare() for connecting to a MySQL database is something that I have done, but it has been a while. I learned more about parameterization with PDO. 
