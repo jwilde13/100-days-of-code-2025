@@ -42,3 +42,17 @@ I ran into a few additional issues uploading the AAB file to the Google Play sto
 **Thoughts:** I decided to focus on improving the UI of the To-Do page that I built yesterday. I hooked up the AJAX methods to be able to comunicate with the APIs I build to Add new tasks, Get the tasks, Get the task detail and mark them as complete. It seem like I didn't do a lot but I did connect a lot of dots to make it function more like a usable application.
 
 ![ToDo Screenshot](./screenshots/day-4-screenshot-todoPage.png)
+
+### Day 4: September 5, 2025
+
+**Today's Progress**: Crypto Ticker!
+
+**Thoughts:** Today I went with a simple C# application that I have been wanting to do for awhile. I have wanted to create a small application in C# that would be the top most app on the screen and show the current prices of certain cryptos I was interested in. I decided to use the API from Coinbase as my source for the current prices because it has an endpoint that I didn't have to authenticate for. One of the key features that I wanted to build was to have an indicator that shows how much the value has gone up (green) or down (red) as a visual indicator. That was done by keeping a history of the most recent value and compare it against the current value (delta). I used the datagridview element because it had the table look I was going for. The hardest part of this was keeping track of the math. 
+
+**Link to work:** The [Coinbase API](https://api.coinbase.com/v2/exchange-rates) I used. 
+
+Screenshot 1
+![ToDo Screenshot](./screenshots/day-5-cryptoTicker-1.png)
+
+Screenshot 2
+![ToDo Screenshot](./screenshots/day-5-cryptoTicker-2.png)
