@@ -56,3 +56,14 @@ Screenshot 1
 
 Screenshot 2
 ![ToDo Screenshot](./screenshots/day-5-cryptoTicker-2.png)
+
+
+### Day 5: September 6, 2025
+
+**Today's Progress**: ToDo Update and Crypto Ticker Update!
+
+**Thoughts:** After watching the Crypto Ticker for awhile today, I realized there were some bugs in it. I gave the ToDo list some miliage and added the tasks there and realized I didn't have a way to mark tasks as being done. I created the API for that and added a green button to it.
+
+It wasn't correctly showing the delta value even though the current value did change. I realized that the table was updating at a much slower rate than the Coinbase API was being checked. So the delta value would have been updated several times before the table was refreshed. 
+
+I added some alert logic for display a message box if the coins start to go up to fast or down in a give time, or if it reaches a certain price point. It has been fun watching it tick and update. 
