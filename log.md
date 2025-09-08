@@ -67,3 +67,12 @@ Screenshot 2
 It wasn't correctly showing the delta value even though the current value did change. I realized that the table was updating at a much slower rate than the Coinbase API was being checked. So the delta value would have been updated several times before the table was refreshed. 
 
 I added some alert logic for display a message box if the coins start to go up to fast or down in a give time, or if it reaches a certain price point. It has been fun watching it tick and update. 
+
+### Day 6: September 6, 2025
+
+**Today's Progress**: HTML & CSS Fiddle
+
+**Thoughts:** Today I was inspired by websites like [CFFiddle](https://cffiddle.org/) and [CodePen.io](https://codepen.io/) that have editors that show the result in part of the page. I wanted to create my own mini version to play around with injecting code into iframes. It took me a minute to figure out how to navigate the contentWindow of the iframe in order to get the code to work. The front may not look impressive but I had fun with the Javascript!
+
+Fiddle screenshot
+![Fiddle](./screenshots/day-6-fiddle.png)
