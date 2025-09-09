@@ -76,3 +76,9 @@ I added some alert logic for display a message box if the coins start to go up t
 
 Fiddle screenshot
 ![Fiddle](./screenshots/day-6-fiddle.png)
+
+### Day 7: September 7, 2025
+
+**Today's Progress**: Button Generator!
+
+**Thoughts:** The challenge today is to build a button css generator. This proved to me a little more challenging than I expected. I wasn't sure how to best struction the Javascript. Should I do a class? An object? A bunch of variables? In the end I decided to keep it straight forward and have an object that kept all of the css properties together. Then there is only 1 method I needed to call to update the button preview. I ran out of time to get this into a state I like so I will continue it tomorrow!
