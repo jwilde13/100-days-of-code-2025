@@ -89,3 +89,10 @@ Fiddle screenshot
 **Today's Progress**: Button Generator pt 2!
 
 **Thoughts:**  I wanted to continue with the button generator. I has fun reviewing some of the details of the different CCS properties that I had forgotten about. For example, I didn't realize that most of the vendor prefixes are not really needed any more. I added several more options like background color gradients and controlling the border radiuses.
+
+
+### Day 9: September 9, 2025
+
+**Today's Progress**: Day Schedule!
+
+**Thoughts:**  I still struggle with being organized and time mangement. I decided to build a day schedule template that I can fill out and mark done for certain times of the day. I can select from the ToDo list I created earlier or add in an individual item or meeting. I don't have the icons working yet or the priority marking but I plan on doing those. I did put them on the ToDo list though!
