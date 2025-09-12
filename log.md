@@ -68,7 +68,7 @@ It wasn't correctly showing the delta value even though the current value did ch
 
 I added some alert logic for display a message box if the coins start to go up to fast or down in a give time, or if it reaches a certain price point. It has been fun watching it tick and update. 
 
-### Day 6: September 6, 2025
+### Day 6: September 7, 2025
 
 **Today's Progress**: HTML & CSS Fiddle
 
@@ -77,22 +77,28 @@ I added some alert logic for display a message box if the coins start to go up t
 Fiddle screenshot
 ![Fiddle](./screenshots/day-6-fiddle.png)
 
-### Day 7: September 7, 2025
+### Day 7: September 8, 2025
 
 **Today's Progress**: Button Generator!
 
 **Thoughts:** The challenge today is to build a button css generator. This proved to me a little more challenging than I expected. I wasn't sure how to best struction the Javascript. Should I do a class? An object? A bunch of variables? In the end I decided to keep it straight forward and have an object that kept all of the css properties together. Then there is only 1 method I needed to call to update the button preview. I ran out of time to get this into a state I like so I will continue it tomorrow!
 
 
-### Day 8: September 8, 2025
+### Day 8: September 9, 2025
 
 **Today's Progress**: Button Generator pt 2!
 
 **Thoughts:**  I wanted to continue with the button generator. I has fun reviewing some of the details of the different CCS properties that I had forgotten about. For example, I didn't realize that most of the vendor prefixes are not really needed any more. I added several more options like background color gradients and controlling the border radiuses.
 
 
-### Day 9: September 9, 2025
+### Day 9: September 10, 2025
 
 **Today's Progress**: Day Schedule!
 
 **Thoughts:**  I still struggle with being organized and time mangement. I decided to build a day schedule template that I can fill out and mark done for certain times of the day. I can select from the ToDo list I created earlier or add in an individual item or meeting. I don't have the icons working yet or the priority marking but I plan on doing those. I did put them on the ToDo list though!
+
+### Day 10: September 11, 2025
+
+**Today's Progress**: Day Schedule Redo!
+
+**Thoughts:**  I tried to use the daily schedule I designed previously and it wasn't helpful. I decided to redo it. What I found lacking was it couldn't be updated easily if there were sudden changes to my day. I decided to have the top section be a week overview and then below it, display the daily schedule. Off to the side, I had a checkbox list of things I had to do today. Hopefully this design works better for me.
