@@ -102,3 +102,13 @@ Fiddle screenshot
 **Today's Progress**: Day Schedule Redo!
 
 **Thoughts:**  I tried to use the daily schedule I designed previously and it wasn't helpful. I decided to redo it. What I found lacking was it couldn't be updated easily if there were sudden changes to my day. I decided to have the top section be a week overview and then below it, display the daily schedule. Off to the side, I had a checkbox list of things I had to do today. Hopefully this design works better for me.
+
+
+### Day 11: September 12, 2025
+
+**Today's Progress**: API Pwned!
+
+**Thoughts:**  I wanted to practice some API skills with the Have I Been Pwned API and C#. I built a simple console app that checks the HaveIBeenPwned api for breach info for a given email. It was a fun little Friday project. 
+
+
+[haveibeenpwned](https://haveibeenpwned.com/API/v3)
