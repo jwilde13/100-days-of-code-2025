@@ -112,3 +112,10 @@ Fiddle screenshot
 
 
 [haveibeenpwned](https://haveibeenpwned.com/API/v3)
+
+
+### Day 12: September 13, 2025
+
+**Today's Progress**: Save the buttons!
+
+**Thoughts:**  I revisited the button generator. I added the functionality to save button templates into the local storage and reuse them. This was my first time with a usable local storage project. 
