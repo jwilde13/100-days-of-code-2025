@@ -119,3 +119,12 @@ Fiddle screenshot
 **Today's Progress**: Save the buttons!
 
 **Thoughts:**  I revisited the button generator. I added the functionality to save button templates into the local storage and reuse them. This was my first time with a usable local storage project. 
+
+
+
+
+### Day 13: September 14, 2025
+
+**Today's Progress**: Iframe and cameras
+
+**Thoughts:**  I spent today building a UI for security cameras that are connected to a BlueIris system. The UI was built with iframes and HTML, CSS and some JS. It allowed me to see the cameras from any device on my home network. It was a fun activity. 
