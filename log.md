@@ -128,3 +128,12 @@ Fiddle screenshot
 **Today's Progress**: Iframe and cameras
 
 **Thoughts:**  I spent today building a UI for security cameras that are connected to a BlueIris system. The UI was built with iframes and HTML, CSS and some JS. It allowed me to see the cameras from any device on my home network. It was a fun activity. 
+
+
+
+
+### Day 14: September 15, 2025
+
+**Today's Progress**: C#, CefSharp and events!
+
+**Thoughts:** I've used C# and CefSharp for several years. I've always used the legacy binding for events between Javascript and the C# CefSharp and I decided to use the newer "Register" to bind a C# object to the Javascript front end. It took me a minute because I couldn't figure out how to get the Javascript to see the registered object. I realized that I wasn't using 'BindObjectAsync' in Javascript so it didn't exist.
