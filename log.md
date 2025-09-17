@@ -137,3 +137,11 @@ Fiddle screenshot
 **Today's Progress**: C#, CefSharp and events!
 
 **Thoughts:** I've used C# and CefSharp for several years. I've always used the legacy binding for events between Javascript and the C# CefSharp and I decided to use the newer "Register" to bind a C# object to the Javascript front end. It took me a minute because I couldn't figure out how to get the Javascript to see the registered object. I realized that I wasn't using 'BindObjectAsync' in Javascript so it didn't exist.
+
+
+
+### Day 15: September 16, 2025
+
+**Today's Progress**: Button Strikes Back!
+
+**Thoughts:** I returned to the button generator again. I wanted to add options for the hover effects. I enjoyed getting into the different things like size, color, background and size for only the on hover. It's really coming together. I think I need to make it a standalone project and push it to Github to share. 
