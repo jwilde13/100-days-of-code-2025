@@ -145,3 +145,11 @@ Fiddle screenshot
 **Today's Progress**: Button Strikes Back!
 
 **Thoughts:** I returned to the button generator again. I wanted to add options for the hover effects. I enjoyed getting into the different things like size, color, background and size for only the on hover. It's really coming together. I think I need to make it a standalone project and push it to Github to share. 
+
+
+
+### Day 16: September 17, 2025
+
+**Today's Progress**: Portfolio!
+
+**Thoughts:** Today I began working on a portfolio website for me. I think I have a good layout but I've been struggling with the content. I kept it simple in design and so far it only uses HTML/CSS/Javascript. I don't think I'll have a need for PHP except for any contact/email functions. 
