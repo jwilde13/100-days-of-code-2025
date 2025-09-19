@@ -153,3 +153,11 @@ Fiddle screenshot
 **Today's Progress**: Portfolio!
 
 **Thoughts:** Today I began working on a portfolio website for me. I think I have a good layout but I've been struggling with the content. I kept it simple in design and so far it only uses HTML/CSS/Javascript. I don't think I'll have a need for PHP except for any contact/email functions. 
+
+
+
+### Day 17: September 18, 2025
+
+**Today's Progress**: C# and game library!
+
+**Thoughts:** I finished the C# and CefSharp project I started a few days ago. I added a UI in HTML to display all the games I have installed on my gaming PC and connected the buttons to launch the games. I wanted to display the games like on a shopping webside and have a button that launches them. 
