@@ -161,3 +161,14 @@ Fiddle screenshot
 **Today's Progress**: C# and game library!
 
 **Thoughts:** I finished the C# and CefSharp project I started a few days ago. I added a UI in HTML to display all the games I have installed on my gaming PC and connected the buttons to launch the games. I wanted to display the games like on a shopping webside and have a button that launches them. 
+
+
+
+### Day 18: September 19, 2025
+
+**Today's Progress**: Pixel Art!
+
+**Thoughts:** Today I played with creating a pixel art maker. I wanted to create a gid in HTML Canvas that would allow me to click sections and draw! This took much longer than an hour but I had so much fun creating it. The Layout isn't responsive but it allowed for a good framework to start with. 
+
+Fiddle screenshot
+![Fiddle](./screenshots/day-19-pixel-art.png)
