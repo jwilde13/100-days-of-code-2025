@@ -170,5 +170,12 @@ Fiddle screenshot
 
 **Thoughts:** Today I played with creating a pixel art maker. I wanted to create a gid in HTML Canvas that would allow me to click sections and draw! This took much longer than an hour but I had so much fun creating it. The Layout isn't responsive but it allowed for a good framework to start with. 
 
-Fiddle screenshot
-![Fiddle](./screenshots/day-19-pixel-art.png)
+Pixel screenshot
+![Pixel](./screenshots/day-19-pixel-art.png)
+
+
+### Day 19: September 20, 2025
+
+**Today's Progress**: Pixel Art pt 2!
+
+**Thoughts:** I was enjoying playing with the pixel maker. I decided to add some layering to the cavas and the ability to lock colors so they couldn't be changed. I ran into an issue trying to figure out how to layer the colors correctly on the redraw of the canvas but after some trial and error I found my issue. 
