@@ -179,3 +179,10 @@ Pixel screenshot
 **Today's Progress**: Pixel Art pt 2!
 
 **Thoughts:** I was enjoying playing with the pixel maker. I decided to add some layering to the cavas and the ability to lock colors so they couldn't be changed. I ran into an issue trying to figure out how to layer the colors correctly on the redraw of the canvas but after some trial and error I found my issue. 
+
+
+### Day 20: September 21, 2025
+
+**Today's Progress**: Pixel Art pt 3!
+
+**Thoughts:** I spent more time on the pixel maker today. I was trying to save the progress of the image but I haven't been able to work out how I want to do that. Right now I'm using the local storage but I want to save it to my server so I can use it on different devices. I haven't gotten that to work yet. 
