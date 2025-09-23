@@ -186,3 +186,10 @@ Pixel screenshot
 **Today's Progress**: Pixel Art pt 3!
 
 **Thoughts:** I spent more time on the pixel maker today. I was trying to save the progress of the image but I haven't been able to work out how I want to do that. Right now I'm using the local storage but I want to save it to my server so I can use it on different devices. I haven't gotten that to work yet. 
+
+
+### Day 21: September 22, 2025
+
+**Today's Progress**: Pixel Art pt 4!
+
+**Thoughts:** Another day with the pixel maker. I decided on a save path. I will store pass the save data as json and save it as a blob. I also added an export function to download the JSON. It took me some time with the PHP to be able to successfully store the JSON. I changed the format a few times and had to restart because the previous saves were no longer good. 
