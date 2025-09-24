@@ -193,3 +193,10 @@ Pixel screenshot
 **Today's Progress**: Pixel Art pt 4!
 
 **Thoughts:** Another day with the pixel maker. I decided on a save path. I will store pass the save data as json and save it as a blob. I also added an export function to download the JSON. It took me some time with the PHP to be able to successfully store the JSON. I changed the format a few times and had to restart because the previous saves were no longer good. 
+
+
+### Day 22: September 23, 2025
+
+**Today's Progress**: Random Stuff!
+
+**Thoughts:** Today I was a bit all over the place. I fixed a few bugs on the button generator and worked on the pixel maker. I created a C# CefSharp project and worked on adding both projects into it via HTML. 
