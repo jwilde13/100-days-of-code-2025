@@ -200,3 +200,10 @@ Pixel screenshot
 **Today's Progress**: Random Stuff!
 
 **Thoughts:** Today I was a bit all over the place. I fixed a few bugs on the button generator and worked on the pixel maker. I created a C# CefSharp project and worked on adding both projects into it via HTML. 
+
+
+### Day 23: September 24, 2025
+
+**Today's Progress**: Skill Tracker!
+
+**Thoughts:**  For day 24 I wanted to create a simple skill tracker. I wanted a way to visually show an indicator of my skills and encourage me to level them up. Almost like a video game RPG leveling system. I spent some time researching good formulas for a leveling system and I decided on a linear formula. Level = X * (X - 1). I wanted to develop skills in 3 areas for now, programming, excercises, and Rubik's cube. 
