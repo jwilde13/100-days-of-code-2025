@@ -207,3 +207,12 @@ Pixel screenshot
 **Today's Progress**: Skill Tracker!
 
 **Thoughts:**  For day 24 I wanted to create a simple skill tracker. I wanted a way to visually show an indicator of my skills and encourage me to level them up. Almost like a video game RPG leveling system. I spent some time researching good formulas for a leveling system and I decided on a linear formula. Level = X * (X - 1). I wanted to develop skills in 3 areas for now, programming, excercises, and Rubik's cube. 
+
+### Day 24: September 25, 2025
+
+**Today's Progress**:Skill Tracker pt 2!
+
+**Thoughts:** I worked on the Javascript of the skill tracker. I had some bugs with calculating the leveling of the different skills. I didn't want to show how much exp for it to level up but to calculate the level given an amount of exp. It wasn't a lot of front end work but it was more JS related. 
+
+Tracker screenshot
+![Tracker](./screenshots/day-25-skillTracker.png)
