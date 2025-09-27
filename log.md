@@ -210,9 +210,15 @@ Pixel screenshot
 
 ### Day 24: September 25, 2025
 
-**Today's Progress**:Skill Tracker pt 2!
+**Today's Progress**: Skill Tracker pt 2!
 
 **Thoughts:** I worked on the Javascript of the skill tracker. I had some bugs with calculating the leveling of the different skills. I didn't want to show how much exp for it to level up but to calculate the level given an amount of exp. It wasn't a lot of front end work but it was more JS related. 
 
 Tracker screenshot
 ![Tracker](./screenshots/day-25-skillTracker.png)
+
+### Day 25: September 26, 2025
+
+**Today's Progress**: Redesign of notes!
+
+**Thoughts:** After using the notes app for the last little while, I found it wasn't very user friendly. It didn't work well on my phone and it was hard to review and update notes later. I redesined the UI with bootstrap and that made it more responsive. I added a way to sort and filter the notes with a title and a category.  
