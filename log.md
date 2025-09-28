@@ -222,3 +222,9 @@ Tracker screenshot
 **Today's Progress**: Redesign of notes!
 
 **Thoughts:** After using the notes app for the last little while, I found it wasn't very user friendly. It didn't work well on my phone and it was hard to review and update notes later. I redesined the UI with bootstrap and that made it more responsive. I added a way to sort and filter the notes with a title and a category.  
+
+### Day 26: September 27, 2025
+
+**Today's Progress**: C# WebScraping!
+
+**Thoughts:**  Today I started a project in C# that scrapes some profile web pages for their information. I wanted to agregate the data from multiple profiles into one view. Kind of hard to explain.
