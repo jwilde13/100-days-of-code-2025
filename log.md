@@ -228,3 +228,9 @@ Tracker screenshot
 **Today's Progress**: C# WebScraping!
 
 **Thoughts:**  Today I started a project in C# that scrapes some profile web pages for their information. I wanted to agregate the data from multiple profiles into one view. Kind of hard to explain.
+
+### Day 27: September 28, 2025
+
+**Today's Progress**: C# WebScraping pt 2!
+
+**Thoughts:**  I worked on the webscraping today. I started working on a combined profile page that will display all my informaion. Almost like a dashboard for my different profiles. I want to show my streak information and my combined progress from week to week. 
