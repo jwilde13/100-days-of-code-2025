@@ -234,3 +234,9 @@ Tracker screenshot
 **Today's Progress**: C# WebScraping pt 2!
 
 **Thoughts:**  I worked on the webscraping today. I started working on a combined profile page that will display all my informaion. Almost like a dashboard for my different profiles. I want to show my streak information and my combined progress from week to week. 
+
+### Day 28: September 29, 2025
+
+**Today's Progress**: CSS Animations!
+
+**Thoughts:**  I've never been comfortable with CSS animations. Bounce, fade, flip, etc. It has been a weak spot for me for a bit. I wanted to improve my skills by trying to recreate some bouncing and moving animations. 
