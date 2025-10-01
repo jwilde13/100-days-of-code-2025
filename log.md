@@ -240,3 +240,11 @@ Tracker screenshot
 **Today's Progress**: CSS Animations!
 
 **Thoughts:**  I've never been comfortable with CSS animations. Bounce, fade, flip, etc. It has been a weak spot for me for a bit. I wanted to improve my skills by trying to recreate some bouncing and moving animations. 
+
+### Day 29: September 30, 2025
+
+**Today's Progress**: Fade In Wordwall!
+
+**Thoughts:**  Since I've been brushing up on CSS animations, I had an idea to create a word wall of my skills to show in my portfolio. It took me a moment to visualize how it should work. I had to learn some new attributes of HTML like 'getBoundingClientRect' to ensure that the words don't overlap. It's not working all the way yet but I hope to be able to clean it up tomorrow. 
+
+**Link to work:** Take a look at the initial state [Word Wall](./Demos/heatmap.html). 

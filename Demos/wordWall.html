@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+.wordWall {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 3rem;
+}
+
+#word-wall-container {
+    position: relative;
+    width: 80vw; 
+    height: 80vh; 
+    border: 1px solid #ccc;
+    background-color: #fff;
+    display: flex;
+    flex-wrap: wrap; 
+    align-items: flex-start; 
+    justify-content: flex-start; 
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.word-item {
+    position: absolute; 
+    margin: 5px;
+    border-radius: 5px;
+    white-space: nowrap; 
+    transition: transform 0.2s ease-in-out;
+    opacity: 0;
+    transform: translateY(20px); 
+    display: inline-block; 
+    animation: fadeIn 0.8s ease-out forwards;
+    padding:15px;
+}
+
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+</style>
+<script>
+let currentPositions = [];
+document.addEventListener('DOMContentLoaded', () => {
+	const words = [
+        "JavaScript", "HTML", "CSS", "Web", "Development", "Coding",
+        "Programming", "Frontend", "Backend", "Framework", "Library",
+        "Responsive", "Design", "Interactive", "Dynamic", "Algorithm",
+        "Data", "Function", "Variable", "Array", "Object", "Event",
+        "Browser", "Server", "API", "User", "Experience"
+    ];
+
+    const wordWallContainer = document.getElementById('word-wall-container');
+    words.forEach((word, index) => {
+        let wordItem = document.createElement('span');
+        wordItem.classList.add('word-item');
+        wordItem.textContent = word;
+
+        let fontSize = Math.floor(Math.random() * (15)) + 16; 
+        wordItem.style.fontSize = `${fontSize}px`;
+
+        let containerWidth = wordWallContainer.offsetWidth;
+        let containerHeight = wordWallContainer.offsetHeight;
+
+        wordItem.style.animationDelay = `${index * .3}s`;
+
+        wordWallContainer.appendChild(wordItem);
+
+        let wordItemWidth = wordItem.offsetWidth;
+        let wordItemHeight = wordItem.offsetHeight;
+
+        console.log(wordItem,wordItem.getBoundingClientRect());
+
+        let rect=wordItem.getBoundingClientRect();
+        let l=rect.left;
+        let t=rect.top;
+        let b=rect.bottom;
+        let r=rect.right;
+        if (currentPositions.length == 0){
+            currentPositions.push({top:t,right:r,bottom:b,left:l});
+        }
+
+        let maxX = containerWidth - wordItemWidth;
+        let maxY = containerHeight - wordItemHeight;
+
+        wordItem.style.left = `${Math.random() * maxX}px`;
+        wordItem.style.top = `${Math.random() * maxY}px`;
+
+    });
+});
+</script>
+</head>
+<body>
+	<div class="wordWall" id="word-wall-container">
+	</div>
+</body>
+</html>
