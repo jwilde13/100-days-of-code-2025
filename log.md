@@ -247,4 +247,10 @@ Tracker screenshot
 
 **Thoughts:**  Since I've been brushing up on CSS animations, I had an idea to create a word wall of my skills to show in my portfolio. It took me a moment to visualize how it should work. I had to learn some new attributes of HTML like 'getBoundingClientRect' to ensure that the words don't overlap. It's not working all the way yet but I hope to be able to clean it up tomorrow. 
 
-**Link to work:** Take a look at the initial state [Word Wall](./Demos/heatmap.html). 
+**Link to work:** Take a look at the initial state [Word Wall](./Demos/wordWall.html). 
+
+### Day 30: October 1, 2025
+
+**Today's Progress**: CSS Animations and Styling.
+
+**Thoughts:**  I wanted to apply my CSS animation learning to the task tracker. I spent some time cleaning up the styling of the page and adding some animations for the progress bars when the value changes. I'm trying to figure out some cool little animation for when it levels up but I haven't come up with anything yet. 
