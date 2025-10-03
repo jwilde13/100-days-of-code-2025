@@ -254,3 +254,9 @@ Tracker screenshot
 **Today's Progress**: CSS Animations and Styling.
 
 **Thoughts:**  I wanted to apply my CSS animation learning to the task tracker. I spent some time cleaning up the styling of the page and adding some animations for the progress bars when the value changes. I'm trying to figure out some cool little animation for when it levels up but I haven't come up with anything yet. 
+
+### Day 31: October 2, 2025
+
+**Today's Progress**: Pixel Maker (again)!
+
+**Thoughts:**  I was using the pixel maker and found some bugs with the styling and functionality. It wasn't as responsive as I wanted and some functionality wasn't working correctly or was missing. Like saving/reloading images. I spent some time updating it. 
