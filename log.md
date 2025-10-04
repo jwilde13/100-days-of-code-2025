@@ -265,4 +265,4 @@ Tracker screenshot
 
 **Today's Progress**: Coldfusion Session!
 
-**Thoughts:**  Today I had a thought. Could the session state not be checked in ColdFusion for certain pages or directories? I wasn't sure. I played around with Application.cfc and sessionManagement setting. I ended up taking down my testing server but I think it is possible.
+**Thoughts:**  Today I had a thought. Could the session state not be checked in ColdFusion for certain pages or directories? I wasn't sure. I played around with Application.cfc and sessionManagement setting. I ended up taking down my testing server but I think it is possible. After I got frustrated with that I moved on to working with the Pixel Maker. I am wanting to add an image overlay and being able to change the size without reloading the entire page. 
