@@ -260,3 +260,9 @@ Tracker screenshot
 **Today's Progress**: Pixel Maker (again)!
 
 **Thoughts:**  I was using the pixel maker and found some bugs with the styling and functionality. It wasn't as responsive as I wanted and some functionality wasn't working correctly or was missing. Like saving/reloading images. I spent some time updating it. 
+
+### Day 32: October 3, 2025
+
+**Today's Progress**: Coldfusion Session!
+
+**Thoughts:**  Today I had a thought. Could the session state not be checked in ColdFusion for certain pages or directories? I wasn't sure. I played around with Application.cfc and sessionManagement setting. I ended up taking down my testing server but I think it is possible.
