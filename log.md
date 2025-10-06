@@ -272,3 +272,9 @@ Tracker screenshot
 **Today's Progress**: CSS Animations!
 
 **Thoughts:**  I spent some more time today practicing CSS Animations. I always liked the Google loading animations so I wanted to make something kinda cool but so far all I have is a spinning ball in different colors. I need more time with CSS Animations. 
+
+### Day 34: October 5, 2025
+
+**Today's Progress**: CSS Loaders!
+
+**Thoughts:**  I tried to get more creative with the loaders. I started making a CSS Loader maker type app. I got it set up to be able to add 3 different colors so far and to change the direction and speed of the animation. Doing this I can better see how the animations are made and created. 
