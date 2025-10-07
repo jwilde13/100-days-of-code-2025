@@ -278,3 +278,11 @@ Tracker screenshot
 **Today's Progress**: CSS Loaders!
 
 **Thoughts:**  I tried to get more creative with the loaders. I started making a CSS Loader maker type app. I got it set up to be able to add 3 different colors so far and to change the direction and speed of the animation. Doing this I can better see how the animations are made and created. 
+
+### Day 35: October 6, 2025
+
+**Today's Progress**: CSS Animated Pumpkin!
+
+**Thoughts:**  I want to compete in CodePen's weekly challenge this week. It's Halloween themed so I thought it would be good to make a Halloween loading animation. It's definatly a work in progress. I used 'clip-path' and polygon to start shaping the pumpkin and the face. 
+
+**Link to work:** Current  [pumpkin](./Screenshots/day-36-css-animated-pumpkin.png). 
