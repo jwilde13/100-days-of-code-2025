@@ -286,3 +286,9 @@ Tracker screenshot
 **Thoughts:**  I want to compete in CodePen's weekly challenge this week. It's Halloween themed so I thought it would be good to make a Halloween loading animation. It's definatly a work in progress. I used 'clip-path' and polygon to start shaping the pumpkin and the face. 
 
 **Link to work:** Current  [pumpkin](./Screenshots/day-36-css-animated-pumpkin.png). 
+
+### Day 36: October 7, 2025
+
+**Today's Progress**: CodePen.io Challenge!
+
+**Thoughts:**  Ok. So today I was stuck. I spent most of the time today working on the codepen challenge and I couldn't come up with a good idea. The loading pumpkin didn't look good enough to me. It kind of frustrated me. 
