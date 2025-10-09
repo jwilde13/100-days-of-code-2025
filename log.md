@@ -292,3 +292,9 @@ Tracker screenshot
 **Today's Progress**: CodePen.io Challenge!
 
 **Thoughts:**  Ok. So today I was stuck. I spent most of the time today working on the codepen challenge and I couldn't come up with a good idea. The loading pumpkin didn't look good enough to me. It kind of frustrated me. 
+
+### Day 37: October 8, 2025
+
+**Today's Progress**: CodePen.io Challenge pt 2!
+
+**Thoughts:**  Today I didn't have any more luck with the pumpkin. I'm trying different css animations to make the eyes and mouth glow. I can't seem to get the mouth right and I haven't even started on the timer...
