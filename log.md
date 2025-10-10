@@ -298,3 +298,9 @@ Tracker screenshot
 **Today's Progress**: CodePen.io Challenge pt 2!
 
 **Thoughts:**  Today I didn't have any more luck with the pumpkin. I'm trying different css animations to make the eyes and mouth glow. I can't seem to get the mouth right and I haven't even started on the timer...
+
+### Day 38: October 9, 2025
+
+**Today's Progress**: C# and GMail
+
+**Thoughts:**  I needed a break from CSS today. I was watching YouTube and found a video where a guy was making an app that used C# to check Gmail using the Gmail API and OAuth. I found that interesting so today I spent it learning how to use the Gmail API. I am able to read emails and read conversations and it has been very fun!
