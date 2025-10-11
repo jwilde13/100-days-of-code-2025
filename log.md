@@ -304,3 +304,9 @@ Tracker screenshot
 **Today's Progress**: C# and GMail
 
 **Thoughts:**  I needed a break from CSS today. I was watching YouTube and found a video where a guy was making an app that used C# to check Gmail using the Gmail API and OAuth. I found that interesting so today I spent it learning how to use the Gmail API. I am able to read emails and read conversations and it has been very fun!
+
+### Day 39: October 10, 2025
+
+**Today's Progress**: CSS Halloween
+
+**Thoughts:**  I worked on the codepen challenge today. I frustrated myself with it again. I am not able to come up with a way to get it to do what I want. I spent longer on it than I wanted to today with nothing to show for it. 
